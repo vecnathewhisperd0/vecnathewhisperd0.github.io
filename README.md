@@ -1,1 +1,1 @@
-(https://github.com/vecnathewhisperd0/vecna.github.io/new/main?filename=README.md)[💀]
+[https://github.com/vecnathewhisperd0/vecna.github.io#README.md](💀)
