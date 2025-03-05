@@ -1,1 +1,1 @@
-(https://github.com/vecnathewhisperd0/vecna.github.io/new/main?filename=README.md)[💀]
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/vecnathewhisperd0/vecnathewhisperd0.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/vecnathewhisperd0/vecnathewhisperd0.github.io/actions/workflows/jekyll-gh-pages.yml)
